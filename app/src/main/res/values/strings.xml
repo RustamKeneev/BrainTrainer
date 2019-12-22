@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BrainTrainer</string>
+    <string name="repeat_game">Начать заново</string>
+</resources>
